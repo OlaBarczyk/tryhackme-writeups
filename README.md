@@ -19,14 +19,16 @@ This repository documents my practical learning on TryHackMe. It contains detail
 ## Repo structure
 
 ```
-/                       <- this README
-completed_rooms.md      <- one-line log of finished rooms (date, room, flag)
-neighbour/              <- example room folder
-  ├─ README.md          <- room write-up (detailed)
-  └─ images/            <- screenshots for the write-up
-network-fundamentals/   <- notes about OSI, ARP, DHCP, subnetting
-scripts/                <- useful scripts (e.g. nmap wrappers, curl examples)
-cheatsheets/            <- short references (common commands, flags)
+## Repo structure
+
+/ <- this README
+completed_rooms.md <- one-line log of finished rooms (date, room, flag)
+neighbour/ <- example room folder
+README.md <- room write-up (detailed)
+images/ <- screenshots for the write-up
+network-fundamentals/ <- notes about OSI, ARP, DHCP, subnetting
+scripts/ <- useful scripts (e.g. nmap wrappers, curl examples)
+cheatsheets/ <- short references (common commands, flags)
 ```
 
 ---
