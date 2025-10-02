@@ -18,9 +18,9 @@ This repository documents my practical learning on TryHackMe. It contains detail
 
 ## Repo structure
 
-```
-## Repo structure
 
+## Repo structure
+```
 / <- this README
 completed_rooms.md <- one-line log of finished rooms (date, room, flag)
 neighbour/ <- example room folder
