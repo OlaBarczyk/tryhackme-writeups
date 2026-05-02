@@ -1,19 +1,50 @@
 # TryHackMe Writeups
+![Focus](https://img.shields.io/badge/Focus-SOC%20Analyst-blue)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning-green)
+Aspiring Junior SOC Analyst actively building hands-on skills in security monitoring, log analysis, and threat detection.
+## Career Objective
 
-**Collection of TryHackMe room write-ups, cheatsheets and small pentest scripts.**  
-_Author: Aleksandra Barczyk_
+I am currently seeking a Junior SOC Analyst / Security Monitoring role where I can apply my analytical background (SQL, Python) to security operations, log analysis, and threat detection.
+**Collection of hands-on cybersecurity labs, write-ups, cheatsheets, and small scripts focused on SOC Analyst skills, threat detection, and practical security analysis.
 
+Author: Aleksandra Barczyk
+Cybersecurity Focus
+
+This repository demonstrates practical skills relevant to entry-level Security Operations roles:
+
+- Log analysis and basic threat detection  
+- Network scanning and enumeration (nmap, curl)  
+- Linux command-line and system navigation  
+- Web application enumeration and security basics  
+- Incident investigation fundamentals  
+
+Tools & Technologies
+nmap
+curl
+Linux (CLI)
+Python (basic scripting)
+Networking fundamentals (TCP/IP, OSI, DNS, HTTP)
+
+Repository Structure
+/room-name/ – detailed write-ups (step-by-step, commands, screenshots)
+/cheatsheets/ – quick references for daily use
+/scripts/ – small helper scripts (e.g., nmap wrappers)
+/network-fundamentals/ – notes on networking basics
+completed_rooms.md – log of completed labs
+
+Example Work
+
+Each write-up includes:
+
+Objective of the lab
+Step-by-step execution (commands used)
+Evidence (screenshots, outputs)
+Key findings / lessons learned
+Basic remediation insights
 ---
 ## About this repository
 
-This repository documents my practical learning on TryHackMe. It contains detailed write-ups for completed rooms, short cheatsheets I use for daily practice, and small helper scripts (e.g., nmap wrappers). The goal is to build a clear portfolio that shows my progress in web and network security.
-
-**What you will find here**
-- Step-by-step write-ups for rooms I completed (with commands and screenshots).  
-- Practical cheatsheets for commands and workflows (Linux, networking, web).  
-- Small scripts and helpers used during labs (simple, well-commented).  
-
-> Note: This repo is for learning and portfolio purposes. I do not publish any sensitive data — only educational artifacts and lab flags.
+This repository documents my hands-on cybersecurity learning through TryHackMe labs. It focuses on practical skills in web and network security, including write-ups, cheatsheets, and small scripts used during exercises.
 ---
 ## Repo structure
 
